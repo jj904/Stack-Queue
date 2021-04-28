@@ -7,8 +7,6 @@
 // L peek()_see the last data
 // L isEmpty_check if Stack is empty
 
-
-package Stack_Queue;
 import java.util.EmptyStackException;
 
 class Stack<T>{
@@ -62,4 +60,3 @@ public class StackTest {
         System.out.println(s.isEmpty());
     }
 }
-

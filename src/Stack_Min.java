@@ -2,7 +2,7 @@
 //Stack and Queue
 //Find MinValue through Stack
 //Supply: push(), pop(), min()
-package Stack_Queue;
+
 import java.util.Stack;
 
 class NodeWithMin {
@@ -42,3 +42,4 @@ public class Stack_Min {
         System.out.println("min value: " + stack.min());
     }
 }
+

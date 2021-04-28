@@ -2,7 +2,6 @@
 //Stack and Queue
 // Two Stack to Queue
 
-package Stack_Queue;
 import java.util.Stack;
 
 class MyQueue<T>{
@@ -45,5 +44,3 @@ public class StackToQueue {
         System.out.println(q.remove());
     }
 }
-
-

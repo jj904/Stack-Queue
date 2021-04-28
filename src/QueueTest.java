@@ -1,4 +1,3 @@
-
 //jj904
 //Stack and Queue
 //Queue (implement)_FIFO
@@ -9,7 +8,7 @@
 // L isEmpty_check if Queue is empty
 
 
-package Stack_Queue;
+
 import java.util.NoSuchElementException;
 
 class Queue<T>{
